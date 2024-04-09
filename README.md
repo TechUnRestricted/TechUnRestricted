@@ -37,6 +37,9 @@
 </ul>
 </details>
 
+<h3>📬 Have Questions? Let's Connect!</h3>
+<p>Feel free to reach out to me on <a href="https://telegram.org/t_unrestricted"><strong>Telegram</strong></a> or via <a href="mailto:techunrestricted@gmail.com"><strong>Email</strong></a>.</p>
+
 <br>
 
 <blockquote>
