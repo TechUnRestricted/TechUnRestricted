@@ -7,11 +7,9 @@
 
 <h3>💖 Lend Your Support</h3>
 <a href="https://www.buymeacoffee.com/TechUnRestricted">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Donate with Buy Me a Coffee&emoji=☕&slug=TechUnRestricted&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" />
+  <img src="BuyMeCoffee.svg" />
 </a>
-
 <br>
-
 <details>
   <summary><strong>🪙 Crypto Donations</strong></summary>
   <p><i>Prefer crypto? Here's how you can contribute:</i></p>
@@ -38,7 +36,7 @@
 </details>
 
 <h3>📬 Have Questions? Let's Connect!</h3>
-<p>Feel free to reach out to me on <a href="https://t.me/t_unrestricted"><strong>Telegram</strong></a> or via <a href="mailto:techunrestricted@gmail.com"><strong>Email</strong></a>.</p>
+<p>Feel free to reach out to me via <a href="mailto:techunrestricted@gmail.com"><strong>Email</strong></a>.</p>
 
 <br>
 
